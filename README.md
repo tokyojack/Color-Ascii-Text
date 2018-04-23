@@ -1,5 +1,5 @@
 <h2  align="center">Color-Ascii-Text</h2>
-<p  align="center">A utility to help me create ascii-text in other projects</p>
+<p  align="center">A utility to help me create ascii-text</p>
 
 <br/>
 
